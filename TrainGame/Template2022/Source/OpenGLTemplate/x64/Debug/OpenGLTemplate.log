@@ -1,0 +1,35 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\CatmullRom.cpp(325,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\CatmullRom.cpp(333,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\CatmullRom.cpp(337,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\CatmullRom.cpp(345,92): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Cubemap.cpp
+  Diamond.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(90,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(473,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(530,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(533,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(535,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(690,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(693,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\OpenGLTemplate\Game.cpp(737,21): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Star.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+     Creating library C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\x64\Debug\OpenGLTemplate.lib and object C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\x64\Debug\OpenGLTemplate.exp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLTemplate.vcxproj -> C:\Users\stefa\Documents\Year 3 Computer Science\Graphics Design\TrainGame\Template2022\Source\x64\Debug\OpenGLTemplate.exe
